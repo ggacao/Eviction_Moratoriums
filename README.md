@@ -1,2 +1,3 @@
 # Eviction_Moratoriums
-### Here is a link to our midterm presentation as well: https://docs.google.com/presentation/d/1gsrnkzuZ8rHXzPLFxcAfTZSCdVuKq9Gzf6zH4L6ph4A/edit?usp=sharing 
+### For our midterm deliverables, please refer to the following Jupyter notebooks: midterm_landlordsFINAL, midterm_censusdataFINAL
+#### Here is a link to our midterm presentation as well: https://docs.google.com/presentation/d/1gsrnkzuZ8rHXzPLFxcAfTZSCdVuKq9Gzf6zH4L6ph4A/edit?usp=sharing 
